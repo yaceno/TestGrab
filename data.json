@@ -1,0 +1,6 @@
+{
+    "cloud_api": "https://api.aws.amazon.com/some_endpoint",
+    "payment_api": "https://api.paypal.com/v1/payments/payment",
+    "llm_api": "https://api.openai.com/v1/engines/davinci/completions",
+    "crypto_api": "https://api.coinbase.com/v2/prices/spot?currency=USD"
+}
